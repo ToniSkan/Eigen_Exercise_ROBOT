@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG    CMakeFiles/eigenexercise.dir/src/eigenexercise.cpp.o  -o eigenexercise -rdynamic 

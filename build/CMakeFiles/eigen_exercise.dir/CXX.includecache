@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/toni/Documents/M1SistemesPercepcio/Sesio_9/EJE9.1_EIGEN/MY_SOLUTION/src/eigen_exercise.cpp
+iostream
+-
+eigen3/Eigen/Dense
+-
+math.h
+-
+
